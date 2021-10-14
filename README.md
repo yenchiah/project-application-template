@@ -5,7 +5,7 @@ This repository is a template to start a project that has both back-end and fron
 This template uses the [PROJECT] placeholder to represent your project name. Please remember to replace it with the actual name in your README.
 
 ### Resources
-For development, please check this [video labeling tool](https://github.com/CMU-CREATE-Lab/video-labeling-tool) and the [COCTEAU tool](https://github.com/TUD-KInD/COCTEAU-TUD) for implementation examples. Here is a [cheatsheet of commonly used operations](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md). Please read the [coding standards](#coding-standards) section carefully before contributing to this project.
+For development, please check this [video labeling tool](https://github.com/CMU-CREATE-Lab/video-labeling-tool) and the [COCTEAU tool](https://github.com/TUD-KInD/COCTEAU-TUD) for implementation examples. Here is a [website template](https://github.com/yenchiah/project-website-template) for developing the front-end. Here is a [cheatsheet of commonly used operations](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md). Please read the [coding standards](#coding-standards) section carefully before contributing to this project.
 
 ### Table of Content
 - [Coding standards](#coding-standards)
