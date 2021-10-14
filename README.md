@@ -20,7 +20,7 @@ For development, please check this [video labeling tool](https://github.com/CMU-
 # <a name="coding-standards"></a>Coding standards
 When contributing code for this repository, please follow the guidelines below:
 ### Language
-- The primary language for this project is set to English. Please use English when writing comments and docstrings in the code. Please also use English when writing git commit messages.
+- The primary language for this project is set to English. Please use English when writing comments and docstrings in the code. Please also use English when writing git issues, pull requests, wiki pages, commit messages, and the README file.
 ### Git workflow
 - Follow the [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). The master branch preserves the development history with no broken code. When working on a system feature, create a separate feature branch.
 - Always create a pull request before merging the feature branch into the main branch. Doing so helps keep track of the project history and manage git issues.
