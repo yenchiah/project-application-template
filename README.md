@@ -182,7 +182,7 @@ source ~/.bash_profile
 ```
 Clone this repository
 ```sh
-git clone https://github.com/yenchiah/project-application-template.git [PROJECT]
+git clone [PROJECT_REPOSITORY_URL] [PROJECT]
 ```
 Set the permission of the folder (for Ubuntu server setup only, not Mac OS).
 ```sh
