@@ -2,10 +2,15 @@
 
 This repository is a template to start a project that has both back-end and front-end. The back-end uses python Flask and the PostgreSQL database. The front-end uses JavaScript/HTML/CSS. The front-end and back-end is connected using API calls.
 
-This template uses the [PROJECT] placeholder to represent your project name. Please remember to replace it with the actual name in your README.
+(To the repository manager: this template uses the [PROJECT] placeholder to represent your project name. Please remember to replace it with the actual name in your README.)
 
 ### Resources
-For development, please check this [video labeling tool](https://github.com/CMU-CREATE-Lab/video-labeling-tool) and the [COCTEAU tool](https://github.com/TUD-KInD/COCTEAU-TUD) for implementation examples. Here is a [website template](https://github.com/yenchiah/project-website-template) for developing the front-end. Here is a [cheatsheet of commonly used operations](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md). Please read the [coding standards](#coding-standards) section carefully before contributing to this project.
+For development, please feel free to check the following repositories for implementation examples:
+- The [video labeling tool](https://github.com/CMU-CREATE-Lab/video-labeling-tool) for both front-end and back-end.
+- The [COCTEAU tool](https://github.com/TUD-KInD/COCTEAU-TUD) for both front-end and back-end.
+- The [website template](https://github.com/yenchiah/project-website-template) for developing the front-end web pages.
+
+Also, here is a [cheatsheet of commonly used operations](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md).
 
 ### Table of Content
 - [Coding standards](#coding-standards)
@@ -18,9 +23,11 @@ For development, please check this [video labeling tool](https://github.com/CMU-
 - [API calls](#api-calls)
 
 # <a name="coding-standards"></a>Coding standards
-When contributing code for this repository, please follow the guidelines below:
+(To the repository manager: this section provides an example of the coding standards. Please feel free to reuse or modify the guidelines to fit your needs.)
+
+When contributing code to this repository, please follow the guidelines below:
 ### Language
-- The primary language for this project is set to English. Please use English when writing comments and docstrings in the code. Please also use English when writing git issues, pull requests, wiki pages, commit messages, and the README file.
+- The primary language for this repository is set to English. Please use English when writing comments and docstrings in the code. Please also use English when writing git issues, pull requests, wiki pages, commit messages, and the README file.
 ### Git workflow
 - Follow the [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). The master branch preserves the development history with no broken code. When working on a system feature, create a separate feature branch.
 - Always create a pull request before merging the feature branch into the main branch. Doing so helps keep track of the project history and manage git issues.
