@@ -148,7 +148,7 @@ host    replication     all             127.0.0.1/32            scram-sha-256
 host    replication     all             ::1/128                 scram-sha-256
 
 # For Mac OS
-vim /usr/local/var/postgres/pg_hba.conf
+vim /usr/local/var/postgresql@13/pg_hba.conf
 # Scroll to the end and relace all "trust" with "scram-sha-256", except those for the local connections
 # Below are examples
 local   all             all                                     trust
