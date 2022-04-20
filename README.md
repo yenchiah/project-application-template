@@ -90,7 +90,10 @@ For Mac OS, I recommend installing postgresql by using [Homebrew](https://brew.s
 brew install postgresql@13
 
 # Start the service
-brew services start postgresql
+brew services start postgresql@13
+
+# Add to path
+echo 'export PATH="/usr/local/opt/postgresql@13/bin:$PATH"' >> ~/.zshrc
 ```
 Enter the postgres shell.
 ```sh
